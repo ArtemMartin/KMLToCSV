@@ -5,6 +5,7 @@ import java.util.logging.Logger;
 
 
 //sgushgiushgirgiuhgsiougnorno
+//dhdfjrfyjdyj
 public class Main {
     public static void main(String[] args) throws IOException {
         String fileName = "Техника.csv";
